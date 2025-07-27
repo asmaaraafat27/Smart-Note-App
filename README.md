@@ -59,6 +59,6 @@ You can test the Smart Note App GraphQL API using Postman:
 ## 🧾 Installation & Setup
 
 ```bash
-git clone https://github.com/asmaaraafat27/SmartNote-App.git
-cd SmartNote-App
+git clone https://github.com/asmaaraafat27/Smart-Note-App.git
+cd Smart-Note-App
 npm install
