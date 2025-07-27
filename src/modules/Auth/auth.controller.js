@@ -20,12 +20,12 @@ router.patch("/verifyEmail",
     asyncHandler(authService.confirmEmail)
 );
 
-router.post("/forgetPassword", 
+router.post("/forgetPassword",
     validation(authValidation.forgetPasswordSchema), 
     asyncHandler(authService.forgetPassword)
 );
 
-router.post("/resetPassword", 
+router.post("/resetPassword",
     validation(authValidation.resetPasswordSchema), 
     asyncHandler(authService.resetPassword)
 );

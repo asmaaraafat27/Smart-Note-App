@@ -5,6 +5,8 @@ import chalk from "chalk";
 const app = express();
 const port = process.env.PORT || 3000;
 
+
+
 await bootstrap(app, express); 
 
 app.listen(port, ()=> console.log(chalk.bgGreen.bold(`Smart Note App listening on port ${port}`)));
