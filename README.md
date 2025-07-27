@@ -40,6 +40,22 @@ Build a RESTful API using **Node.js** and **Express.js** that allows users to:
 
 ---
 
+## 🧪 Postman Collection
+
+You can test all API endpoints using this public Postman collection:
+
+🔗 [Smart Note API Documentation on Postman](https://documenter.getpostman.com/view/39725396/2sB3B7MtHe)
+
+---
+
+## 🔗 GraphQL Collection (Postman)
+
+You can test the Smart Note App GraphQL API using Postman:
+
+🧠 [GraphQL Postman Collection]()
+
+---
+
 ## 🧾 Installation & Setup
 
 ```bash
